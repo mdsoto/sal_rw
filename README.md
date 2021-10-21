@@ -1,7 +1,7 @@
 # salinity_rw
 Evaluation of three convertions of salinity to water resistivity
 
-<img src="portada.png" style="width:1000px" align="center">
+<img src="portada.PNG" style="width:1000px" align="center">
 
 <h2>Notebook creator</h2>
 
