@@ -8,7 +8,11 @@ Manuel **David** Soto. MSc in Geological Sciences, University of Texas at Austin
 
 <h2>About this notebook</h2>
 
-Here I try to evaluate the effectiveness of three formulas to convert from salinity to water resistivity (Rw). 
+In this notebook three formulas to convert salinity (ppm) to water resistivity (Rw) are evaluated. The formulas are; one proposed by E. R. Crain at his web site (https://spec2000.net/00-index.htm), one from Bateman-Konen, and the last formula one from Kennedy. Last two formulas are in Kennedy, D., Technical Note: The Bateman-Konen Resistivity-Salinity Transform II, PETROPHYSICS, Vol 56, NO.4 (August 15), Pg 379-381. For control points, those in Gen-6 of the Schlumberger (2013) Log interpretation charts are considered effectivinees verification of the formulas.
+
+
+
+    
 
 <h2>Libraries for notebook</h2>
 
