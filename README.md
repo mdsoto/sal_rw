@@ -11,7 +11,7 @@ at Austin, USA.
 
 <h2>About this notebook</h2>
 
-In this notebook three methods or formulas to convert salinity (ppm) to
+In this notebook (salw_rw.ipynb) three methods or formulas to convert salinity (ppm) to
 water resistivity (Rw) are evaluated. The formulas are; one proposed by
 E. R. Crain at his web site (<https://spec2000.net/00-index.htm>), one
 from Bateman-Konen, and the last formula one from Kennedy. These last
